@@ -1,2 +1,1 @@
-Cadastro De Pessoas
-Um tela de cadastro de pessoas feita em Delphi.
+Uma tela de cadastro de pessoas feita em Delphi na versão 10.4.
