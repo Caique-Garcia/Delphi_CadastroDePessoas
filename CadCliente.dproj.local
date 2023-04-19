@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/14 08:31:19.000.936,=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/04/14 08:32:34.000.422,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\View\CadCliente.View.Principal.pas</Transaction>
+    <Transaction>2023/04/14 08:32:34.000.422,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\View\CadCliente.View.Principal.dfm</Transaction>
+    <Transaction>2023/04/14 08:32:44.000.523,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\CadCliente.dproj</Transaction>
+    <Transaction>2023/04/14 09:45:33.000.784,=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.pas</Transaction>
+    <Transaction>2023/04/14 09:46:06.000.353,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.pas=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\DAO\CadCliente.DAO.DM.pas</Transaction>
+    <Transaction>2023/04/14 09:46:06.000.353,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.dfm=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\DAO\CadCliente.DAO.DM.dfm</Transaction>
+    <Transaction>2023/04/14 09:47:19.000.248,=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.pas</Transaction>
+    <Transaction>2023/04/14 09:48:05.000.457,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\View\CadCliente.View.ConfigBanco.pas=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.pas</Transaction>
+    <Transaction>2023/04/14 09:48:05.000.457,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\View\CadCliente.View.ConfigBanco.dfm=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.dfm</Transaction>
+    <Transaction>2023/04/14 09:49:23.000.266,=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.pas</Transaction>
+    <Transaction>2023/04/14 09:49:58.000.247,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Controller\CadCliente.Controller.Classe.Pessoa.pas=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.pas</Transaction>
+    <Transaction>2023/04/14 10:13:41.000.464,=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.pas</Transaction>
+    <Transaction>2023/04/14 10:16:04.000.979,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Model\CadCliente.Model.Classe.BancoConfig.pas=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto CadCliente Novo\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
